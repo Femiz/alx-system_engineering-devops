@@ -1,2 +1,2 @@
 #!/bin/bash
-$DECIMAL | bc
+echo $DECIMAL | bc
